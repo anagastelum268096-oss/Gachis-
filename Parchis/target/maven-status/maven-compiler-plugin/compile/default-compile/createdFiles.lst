@@ -1,0 +1,5 @@
+com\clasedb\parchis\controlador\ControladorInicioJuego.class
+com\clasedb\parchis\Parchis\Parchis.class
+com\clasedb\parchis\vista\VistaInicioJuego.class
+com\clasedb\parchis\modelo\ModeloInicioJuego.class
+com\clasedb\parchis\mock\JuegoMock.class

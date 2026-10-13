@@ -1,0 +1,4 @@
+modelo\ModeloConfiguracion.class
+controlador\ControladorConfiguracion.class
+vista\VistaConfiguracion.class
+mock\JuegoMock.class
